@@ -1,9 +1,12 @@
 ## Hi there  👋
 
-<!--
-**Krishnaku007/Krishnaku007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am krishna Kumar a third year B.Tech student.
+Currently working on my skills. 
+Including Javascript, React.js
+also Concept of DSA and DBMS(SQL)
 
-Here are some ideas to get you started:
+
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
